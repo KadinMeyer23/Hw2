@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\bin\Debug\net8.0\InventoryUpgraded.exe
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\bin\Debug\net8.0\InventoryUpgraded.deps.json
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\bin\Debug\net8.0\InventoryUpgraded.runtimeconfig.json
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\bin\Debug\net8.0\InventoryUpgraded.dll
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\bin\Debug\net8.0\InventoryUpgraded.pdb
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\InventoryUpgraded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\InventoryUpgraded.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\InventoryUpgraded.AssemblyInfo.cs
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\InventoryUpgraded.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\InventoryUpgraded.dll
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\refint\InventoryUpgraded.dll
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\InventoryUpgraded.pdb
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\InventoryUpgraded.genruntimeconfig.cache
+C:\Users\kadin\Desktop\Hw2 Assignments\InventoryUpgraded\obj\Debug\net8.0\ref\InventoryUpgraded.dll
