@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WatchTower": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
