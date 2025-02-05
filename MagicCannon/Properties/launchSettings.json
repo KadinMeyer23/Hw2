@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MagicCannon": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
