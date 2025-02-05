@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReplicatorOfD'to": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
